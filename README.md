@@ -1,3 +1,3 @@
 # PBL_Volatility_Plugin
 
-PBL 플러그인 개발
+PBL Volatility(볼라틸리티) 플러그인 개발
